@@ -15,7 +15,7 @@ URL = require('socket.url')
 clr = require 'term.colors'
 db = redis2.connect('127.0.0.1', 6379)
 sudo_users = {
-  294665580
+  151499613
 }
 
 
